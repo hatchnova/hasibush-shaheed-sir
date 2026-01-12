@@ -1,0 +1,379 @@
+{
+"profileImage": "./images/hasibush_shaheed_image.jpeg",
+
+  "journals": [
+    {
+      "title": "Deforestation and Micro-Climate: A Case on Chittagong Hill Region of Bangladesh",
+      "pdf": "./journals/journal-1.pdf"
+    },
+    {
+      "title": "Monoculture of Pulpwood and Teak and Forest Environment in Chittagong Hill Tracts of Bangladesh",
+      "pdf": "./journals/journal-2.pdf"
+    }
+  ],
+
+  "title": "RESUME",
+
+  "personalInfo": [
+    { "label": "Name", "value": "Professor DR. H.Z.M. HASIBUSH SHAHEED" },
+    {
+      "label": "Father’s name & Status",
+      "value": "MD. ABUL HASHEM, Ex. B.C.S (Education) officer."
+    },
+    {
+      "label": "Mother’s Name & Status",
+      "value": "HOSNE ARA BEGUM, Ex. B.C.S (Education) officer."
+    },
+    {
+      "label": "Address",
+      "value": "Professor, Department of Geography & Environment, Kushtia Govt. College, Kushtia (PRL from 6th August 2025)"
+    },
+    {
+      "label": "Permanent Address",
+      "value": "123, B.B. Ghosh Lane, Kalishankarpoor, Kushtia, Bangladesh."
+    },
+    { "label": "Date of Birth", "value": "6/08/1966" },
+    { "label": "Nationality", "value": "Bangladeshi" },
+    { "label": "Religion", "value": "Islam" }
+  ],
+
+  "occupationalStatus": {
+    "natureOfJob": "Bangladesh Civil Service (Education).",
+    "presentStatus": "Professor of Geography.",
+    "firstJoining": "10/08/1996 as Lecturer in Geography.",
+    "generalExperience": "Teaching in Higher Secondary, Degree Pass Course, Honors and Masters Degree Level, Guide for field research (especially for environmental survey) in Honors and Masters Degree Level and Head of the department of different colleges under National University, Bangladesh.",
+    "specialization": [
+      "Introductory Physical Geography",
+      "Agriculture Geography",
+      "Geomorphology",
+      "Climatology",
+      "Climate Change and Adaptation",
+      "Environmental Geography",
+      "Hydrology",
+      "Disaster Geography",
+      "Political Geography",
+      "Research Methodology"
+    ],
+    "serviceId": "Service ID No. 00006466 (Department of Secondary and Higher Education of Bangladesh)"
+  },
+
+  "serviceRecord": [
+    {
+      "from": "10-08-1996",
+      "to": "02-07-2002",
+      "position": "Lecturer of Geography",
+      "institution": "Jashore Government Mohila College, Jashore"
+    },
+    {
+      "from": "04-07-2002",
+      "to": "26-08-2005",
+      "position": "Ph.D Fellow (UGC Fellowship, OSD)",
+      "institution": "Jahangirnagar University, Savar, Dhaka"
+    },
+    {
+      "from": "28-05-2005",
+      "to": "11-09-2012",
+      "position": "Assistant Professor of Geography",
+      "institution": "Government Azizul Haq College, Bogura"
+    },
+    {
+      "from": "21-03-2023",
+      "to": "04-08-2025",
+      "position": "Professor of Geography",
+      "institution": "Kushtia Government College, Kushtia"
+    }
+  ],
+
+  "identification": [
+    {
+      "label": "National ID",
+      "value": "19661022008000001, Smart ID: 8658247906"
+    },
+    {
+      "label": "TIN",
+      "value": "541076307481"
+    },
+    {
+      "label": "Passport No",
+      "value": "R 0823430"
+    },
+    {
+      "label": "Phone",
+      "value": "01716-246183, 01307198422 (WhatsApp)"
+    },
+    {
+      "label": "Email",
+      "value": "dr.hasib1966@gmail.com"
+    }
+  ],
+
+  "administrativeExperience": {
+    "title": "As Head of the Department of Honors–Masters Degree level Colleges under National University, Gazipur, Bangladesh",
+    "columns": ["From", "To", "Administrative Position", "Institution and Place"],
+    "records": [
+      {
+        "from": "11-06-2017",
+        "to": "04-08-2025",
+        "position": "Head of the Department of Geography and Environment",
+        "institution": "Kushtia Government College, Kushtia"
+      },
+      {
+        "from": "15-05-2013",
+        "to": "30-04-2014",
+        "position": "Head of the Department of Geography and Environment",
+        "institution": "Shatkhira Government College, Shatkhira"
+      },
+      {
+        "from": "06-03-2017",
+        "to": "09-06-2017",
+        "position": "Head of the Department of Geography and Environment",
+        "institution": "Government Azizul Haq College, Bogura"
+      },
+      {
+        "from": "09-09-2014",
+        "to": "30-12-2014",
+        "position": "Head of the Department of Geography and Environment",
+        "institution": "Government Azizul Haq College, Bogura"
+      },
+      {
+        "from": "01-08-2006",
+        "to": "16-11-2007",
+        "position": "Head of the Department of Geography and Environment",
+        "institution": "Government Azizul Haq College, Bogura"
+      },
+      {
+        "from": "21-11-1996",
+        "to": "07-06-2001",
+        "position": "Head of the Department of Geography",
+        "institution": "Jashore Government Mohila College, Jashore"
+      }
+    ]
+  },
+
+ 
+  "academicQualifications": {
+    "title": "Academic Qualifications: B.Sc (Hons.), M.Sc (Geography), Ph.D",
+    "columns": [
+      "Name of Examination",
+      "Board / University",
+      "Institution",
+      "Result",
+      "Group / Subject",
+      "Comment"
+    ],
+    "records": [
+      {
+        "from": "S.S.C",
+        "to": "",
+        "position": "Jessore",
+        "institution": "Kushtia Zilla School",
+        "result": "1st Division",
+        "group": "Science",
+        "comment": ""
+      },
+      {
+        "from": "H.S.C",
+        "to": "",
+        "position": "Jessore",
+        "institution": "Kushtia Govt. College",
+        "result": "1st Division",
+        "group": "Humanities",
+        "comment": "1st position in merit"
+      },
+      {
+        "from": "B.Sc (Hons)",
+        "to": "",
+        "position": "Jahangirnagar University",
+        "institution": "-",
+        "result": "2nd Class",
+        "group": "Geography (Subsidiary Subjects: Economics & Anthropology)",
+        "comment": ""
+      },
+      {
+        "from": "M.Sc",
+        "to": "",
+        "position": "Jahangirnagar University",
+        "institution": "-",
+        "result": "2nd Class",
+        "group": "Geography",
+        "comment": ""
+      },
+      {
+        "from": "Ph.D",
+        "to": "",
+        "position": "Jahangirnagar University",
+        "institution": "-",
+        "result": "Awarded in 2007 A.D.",
+        "group": "",
+        "comment": ""
+      }
+    ],
+    "phdDissertation": {
+      "title": "Effects of Deforestation and Depletion of Vegetation on Environmental Settings in Tertiary Hills of Bangladesh: Case Study on Greater Districts of Chittagong and Chittagong Hill Tracts",
+      "details": [
+        "The research deals with the changes in soil, landform, surface and ground water, micro climate, endemic flora-fauna and human settlement after destruction of natural forest.",
+        "Adopted method is mainly RGA (Rapid Geographical Appraisal) and the techniques are group discussion, PRA sessions, PRA Time Trend Analysis, checklist survey, key individual’s interview, transect, direct observation, temperature and humidity record, soil sample analysis, physical mapping and some innovative techniques as per objective.",
+        "The unique and striking matter of this research is that it reveals the changes in environment due to different forestry operation, i.e., traditional jhum practice, modern very short interval slash and burn agriculture, deliberate logging and commercial plantations.",
+        "Every forest operation shows significant changes in soil and other environmental components. It reveals that changes in soil cause changes in other components—thus soil is the key control of environment and conservation of soil is the secret of environmental stability."
+      ],
+      "focusAreas": [
+        "Deforestation and Changes in Soil Characteristics",
+        "Deforestation and Hill Crumbling",
+        "Deforestation and Surface Water",
+        "Deforestation and Ground Water",
+        "Deforestation and Micro Climate",
+        "Deforestation and Biodiversity",
+        "Deforestation and Human Settlement"
+      ],
+      "uniqueFindings": [
+        "Reveals 15 types of land covering (vegetation) in hill area and the physical properties (specially soil characteristics) of them.",
+        "Shows environmental degradation due to destruction of natural forest comparing Natural Woodland Forest with other land coverings.",
+        "Shows the effects of monoculture of commercial plants (teak, eucalyptus and acacia)."
+      ]
+    }
+  },
+
+  "fellowshipAndTraining": {
+    "fellowship": "The Ph.D. research had been done under the fellowship of Bangladesh University Grant’s Commission.",
+    "training": [
+      {
+        "title": "Computer Training",
+        "details": "Computer Training from NTRAMS ((National Training and Research Academy for Multilingual Shorthand), Bogura in 1997."
+      },
+      {
+        "title": "Bangladesh Civil Service Foundation Training",
+        "details": "Bangladesh Civil Service Foundation Training from NAEM (National Academy for Education Management), Dhaka in 2000."
+      },
+      {
+        "title": "Project Management for Project Officers",
+        "details": "Project Management for Project Officers. Arranged by NAEM from 28.12.2011 to 10.01.2012."
+      }
+    ]
+  },
+
+  "researchAndInterests": {
+    "title": "Research Experience & Interest",
+    "description": "Long experience in environmental research, specially in hill and hill forest region."
+  },
+
+  "computerExperience": {
+    "title": "Experience in Computer",
+    "description": "basic programs."
+  },
+
+  "hobbies": {
+    "title": "Hobby",
+    "description": "Travelling and Photography of natural phenomenon."
+  },
+
+  "researchPublications": {
+    "title": "Research Work & Publications",
+
+    "conferencePublication": [
+      "Depletion of Forest and Adverse Effects on Environment in Bandarban District of Chittagong Hill Tracts: A paper presented at international conference on ‘Disaster’ and full paper published in conference proceeding (arranged by Bangladesh Geographical Society, June 23-24, 2000)."
+    ],
+
+    "reviewedJournals": [
+      "Jhum Cultivation and Environmental Impact in Chittagong Hill Tracts (in Bengali): Article published in Bhugola o Parivesa journal, 2001, Dhaka: University of Dhaka.",
+      "Human Activities and Environmental Impact in Chittagong Hill Tracts (in Bengali): Article published in the Journal of Geo-Environment, 2001, Rajshahi: University of Rajshahi, Bangladesh.",
+      "Impact of Deforestation on Hilly River System: A Case Study on Sangu Catchment of Bandarban: A paper published in the Bhugal Patrika 22:2004, Dhaka: Jahangirnagar University, Savar, Dhaka, Bangladesh.",
+      "Influence of Natural Forest Destruction on Soil: A Case on Reinkhong Reserved Forest of Rangamati District: Article published in the Bhugal Patrika 27:2008, Dhaka: Jahangirnagar University, Savar, Dhaka, Bangladesh.",
+      "Deforestation and Soil Degradation: A Case study on Chittagong Hill Tracts of Bangladesh: Article published in Journal of Bangladesh National Geographical Association, no.36, 2008.",
+      "Repeated and Excessive Slash and Burn Agriculture and Adverse Effects on Environment: A Case on Matamuhuri Catchment of South-Eastern Hill Regions of Bangladesh: Article published in the ‘LOK PROSHASHON SAMOEEKY’, Quarterly journal of Bangladesh Public Administration Training Centre, Savar, Dhaka, Bangladesh, vol. 44, ISSN 1605-2021, 2007.",
+      "Destruction of Natural Forest and Massive landslide: A Case Study on Chittagong Hill Tracts of Bangladesh. In Journal of Bangladesh National Geographical Association, no.37, 2009.",
+      "Settlement Relocation in the Char lands of Padma River basin in Ganges delta, Bangladesh. April, 2010. In the Front Earth Science China, vol.4, issue 4, pages 304–402, DOI: 10.1007/S11707-010-0122-5.",
+      "Padma Bridge in Bangladesh: An Opportunity and Challenges for Charland Livelihood Sustainability – A Case Study on Char Jannat in the Ganges Active Delta. In Asia Pacific Journal of Rural Development, Vol. XXI, no.2, December, 2011.",
+      "Deforestation and Micro-Climate: A Case on Chittagong Hill Region of Bangladesh. In Kushtia College Journal (ISSN 3006-1741), Vol.1, December, 2023.",
+      "Monoculture of Pulpwood and Teak and Forest Environment in Chittagong Hill Tracts of Bangladesh. In Journal of Bangladesh National Geographical Association, Vol. 41–46, No.1 & 2, 2024.",
+      "The Discovery of America: Myths and Facts (in Bangla). In Kushtia College Journal, Vol.2–3, 2024. ISSN 3006-1741."
+    ],
+
+    "bookChapter": [
+      "Contributing writer of Bogura District Gazetteer-2014. Chapter: Physiography and River (in Bangla)."
+    ],
+
+    "conferenceProceedings": [
+      "Environment and Land use: A Case Study on Kaptai Upazila of Chittagong Hill Tracts: Presented at international conference on ‘Geography and Development in the New Millennium’, arranged by Bangladesh National Geographical Association, Rajshahi (November, 2000).",
+      "Repeated and Excessive Jhum Cultivation: A Cause and Effect Analysis on Chittagong Hill Tracts of Bangladesh: Presented at international conference arranged by Bangladesh National Geographical Association, Comilla (December, 2002).",
+      "Destruction of Hills in Charaipara and Aziznagar at Bandarban District: Cause and Effects: Presented at 24th Institute of Indian Geographers Meet, North-Eastern Hill University, Shillong, India (March, 2003).",
+      "Influence of Deforestation on Surface and Underground Water: A study on Bandarban Upazila of Chittagong Hill Tracts: Presented at 24th Institute of Indian Geographers Meet, Shillong, India (March, 2003).",
+      "Pulpwood Monoculture and Forest Environment: Presented at 24th Institute of Indian Geographers Meet, Shillong, India (March, 2003).",
+      "Teak Monoculture and Environmental Degradation: Presented at 48th annual meeting and seminar of Bangladesh Geographical Society (June, 2003).",
+      "Deforestation and Micro Climatic Change in Reinkhong Reserved Forest, Rangamati: Presented at international conference arranged by Bangladesh National Geographical Association, Dhaka (April, 2007).",
+      "Changes in Stream Depth and Width in Moribund Delta and Effects on Primary Economy: A Case Study on Greater Kushtia and Jessore of Bangladesh: Accepted for presentation at International Conference on DELTAS, Shanghai & Qingdao, China (October 26 – November 2, 2008)."
+    ],
+
+    "researchBook": [
+      "পার্বত্য চট্রগ্রাম সংস্কৃতি ও মানবসৃষ্ট বাস্তব্য বিপর্যয় : A research book (in Bangla), published from Dhaka (ISBN 984-32-0057-8), Aligar Library, New Market, Dhaka."
+    ],
+
+    "textBookHigherSecondary": [
+      "ভূগল প্রথম পত্র। ঢাকা: অক্ষরপত্র প্রকাশনী (এনসিটিবি অনুমোদিত) । দশম সংস্করন : সেপ্টেম্বর' ২০২৩",
+      "ভূগল দ্বিতীয় পত্র। ঢাকা: অক্ষরপত্র প্রকাশনী (এনসিটিবি অনুমোদিত) । নবম সংস্করন : সেপ্টেম্বর' ২০২৩",
+      "দ্বিতীয় ভূগল প্রথম ও দ্বিতীয় পত্র। ঢাকা: অক্ষরপত্র প্রকাশনী (এনসিটিবি অনুমোদিত) ।  পঞ্চম সংস্করন : নভেম্বর' ২০২৩"
+    ],
+
+    "textBookHonorsMasters": [
+      "আধুনিক জলবায়ুবিজ্ঞান, ঢাকা: স্বজন প্রকাশনী । পঞ্চম প্রকাশ: জানুয়ারি' ২০২০",
+      "প্রাকৃতিক ভূগোলের রুপরেখা: ঢাকা: স্বজন প্রকাশনী । পঞ্চম প্রকাশ: জানুয়ারি' ২০২১",
+      "বিশ্ব আঞ্চলিক ভূগল | ঢাকা: স্বজন প্রকাশনী । দ্বিতীয় মুদ্রন প্রকাশ: জানুয়ারি' ২০২৩"
+    ]
+  },
+
+  
+  "additionalQualifications": {
+    "title": "Additional Qualification / Experiences",
+    "items": [
+      "Life member, Bangladesh National Geographic Association (BNGA).",
+      "Special interest on Climate Change and Disaster Management issues.",
+      "Coordinator of Urban Partnership for Poverty Reduction Project (UPPRP) in Bogura, arranged by Center for Urban Studies (CUS), Dhaka (from 10-03-2011 to 23-04-2011).",
+      "Editor of Kushtia College Journal (ISSN: 3006-1741), December 2023 (Vol. 1, Issue 1 & 2), April 2024 (Vol. 2–3)."
+    ]
+  },
+
+  "referees": {
+    "title": "Referees",
+    "list": [
+      {
+        "name": "Professor Al-Amin Mohammad",
+        "designation": "Ex. Chairman, Geography and Environment",
+        "institution": "Jahangirnagar University, Savar, Dhaka",
+        "phone": "01911064859"
+      },
+      {
+        "name": "Professor Dr. M. Nazrul Islam",
+        "designation": "Department of Geography and Environment",
+        "institution": "Jahangirnagar University, Savar, Dhaka",
+        "phone": "01711-365233"
+      },
+      {
+        "name": "Professor Gazi Md. Mahbub Murshid",
+        "designation": "Department of Bangla",
+        "institution": "Islamic University, Kushtia, Bangladesh",
+        "phone": "01711-272105"
+      },
+      {
+        "name": "Professor A.K.M. Elius",
+        "designation": "Principal, Dhaka College",
+        "institution": "Dhaka College",
+        "phone": "01868-012543"
+      },
+      {
+        "name": "Professor Dr. Mohd. Abdul Latif",
+        "designation": "Vice Principal",
+        "institution": "Kushtia Government College, Kushtia",
+        "phone": "01718125987"
+      }
+    ]
+  },
+
+  "signature": {
+    "name": "Professor Dr. H.Z.M. Hasibush Shaheed",
+    "id": "00006466",
+    "designation": "Ex. Head of the Department, Geography and Environment",
+    "institution": "Kushtia Government College, Kushtia",
+    "image": "./images/signature.png"
+  }
+
+}
+
